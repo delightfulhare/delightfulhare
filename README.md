@@ -16,6 +16,7 @@ Hello my name is Olivia Steed and I am a student learning computer science.
 <p>
   <img alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
   <img alt="GoogleChrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+  <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
 </p>
 
 <h2>Tools</h2>
